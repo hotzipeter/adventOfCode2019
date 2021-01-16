@@ -1,4 +1,4 @@
-package hu.adventofcode2019;
+package hu.adventofcode2019.day01;
 
 import lombok.Getter;
 
