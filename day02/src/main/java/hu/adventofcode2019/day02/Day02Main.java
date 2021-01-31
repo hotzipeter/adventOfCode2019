@@ -1,6 +1,7 @@
 package hu.adventofcode2019.day02;
 
 import hu.adventofcode2019.common.FileProcessor;
+import hu.adventofcode2019.intcode.IntCodeProcessor;
 
 import java.io.FileNotFoundException;
 
